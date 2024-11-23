@@ -25,6 +25,7 @@
     "alembic:guardian_beam": {"arcane_damage": 1.0},
     "minecraft:arrow": {"physical_damage": 1.0},
     "minecraft:thrown": {"physical_damage": 1.0},
-    "minecraft:fall": {"true_damage": 1.0}
+    "minecraft:fall": {"true_damage": 1.0},
+    "minecraft:player_attack": {"physical_damage": 1.0}
   }
 }
