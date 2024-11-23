@@ -1,5 +1,9 @@
 {
-  "damage_attribute": "minecraft:generic.attack_damage",
+  "damage_attribute": {
+    "base": 0,
+    "min": 0,
+    "max": 1024
+  },
   "shielding_attribute": {
     "base": 0,
     "min": 0,
